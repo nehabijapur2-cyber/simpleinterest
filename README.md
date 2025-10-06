@@ -1,0 +1,2 @@
+# simpleinterest
+to calculate SI
